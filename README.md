@@ -1,0 +1,2 @@
+# R_Repo_Factory_02
+TemplateからRepositoryを新規作成するRepositoryです。GithubAppに関するSecretはリポレベル。
